@@ -1,1 +1,27 @@
-/* Add you CSS here */
+/* General styles for the entire page */
+body {
+  font-family: Arial, sans-serif; /* Sets a clean, readable font */
+  line-height: 1.6; /* Improves text readability */
+  margin: 0; /* Removes default margin */
+  padding: 0; /* Removes default padding */
+  background-color: #f4f4f4; /* Light gray background for the page */
+  color: #333; /* Dark gray text color */
+}
+
+/* Hero Section */
+header {
+  background-color: #007BFF; /* Blue background for the hero section */
+  color: white; /* White text for contrast */
+  text-align: center; /* Centers the text */
+  padding: 20px 10px; /* Adds space inside the section */
+}
+
+header h1 {
+  margin: 0; /* Removes default margin for the heading */
+  font-size: 2.5em; /* Makes the heading larger */
+}
+
+header p {
+  margin: 10px 0 0; /* Adds space below the heading */
+  font-size: 1.2em; /* Slightly larger text for the paragraph */
+}
