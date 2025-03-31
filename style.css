@@ -24,6 +24,7 @@ header {
 header h1 {
   margin: 0; /* Removes default margin for the heading */
   font-size: 2.5em; /* Makes the heading larger */
+  color: #90ee90; /* Soft green color for "Sunny Pagadala" */
 }
 
 header p {
@@ -95,34 +96,10 @@ h1, h2 {
   font-family: 'Courier New', Courier, monospace; /* Special font for red text */
 }
 
-/* Unordered List in Skills Section */
-#skills ul {
-  list-style-type: square; /* Square bullets for a clean look */
-  padding-left: 20px;
-}
-
-#skills li {
-  margin: 5px 0; /* Space between list items */
-  color: #ffffff; /* Keeps list items white for readability */
-}
-
-/* Special font for all red-colored text */
-.red-text {
-  font-family: 'Courier New', Courier, monospace; /* Special font for red text */
-}
-
-/* Footer Section */
-footer {
-  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background for readability */
-  color: #ffffff; /* Pure white text for contrast */
-  text-align: center; /* Centers the text */
-  padding: 20px; /* Adds space inside the section */
-  border-top: 3px solid #ff0000; /* Red accent for the top border */
-}
-
 footer h1 {
   margin: 0; /* Removes default margin for the heading */
   font-size: 2.5em; /* Makes the heading larger */
+  color: #90ee90; /* Soft green color for "Sedici Streetwear" */
 }
 
 footer p {
@@ -138,5 +115,25 @@ footer div {
 
 footer img {
   /* ...existing code... */
+}
+
+/* Footer Section */
+footer {
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background for readability */
+  color: #ffffff; /* Pure white text for contrast */
+  text-align: center; /* Centers all text in the footer */
+  padding: 20px; /* Adds space inside the section */
+  border-top: 3px solid #ff0000; /* Red accent for the top border */
+}
+
+footer h1 {
+  margin: 0; /* Removes default margin for the heading */
+  font-size: 2.5em; /* Matches the heading size in the header */
+  color: #90ee90; /* Soft green color for "Sedici Streetwear" */
+}
+
+footer p {
+  margin: 10px 0 0; /* Adds space below the heading */
+  font-size: 1.2em; /* Matches the paragraph size in the header */
 }
 
