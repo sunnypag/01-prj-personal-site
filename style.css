@@ -78,6 +78,10 @@ nav a:hover {
   margin: 10px;
   border-radius: 5px; /* Rounded corners for a softer look */
   border-left: 5px solid #ffffff; /* White accent for the left border */
+  font-size: 1.1em; /* Slightly larger text for better readability */
+  line-height: 1.8; /* Adds more spacing between lines for a cleaner look */
+  text-align: justify; /* Aligns text for a polished appearance */
+  font-style: italic; /* Adds a subtle emphasis to the text */
 }
 
 /* Skills Section */
@@ -88,6 +92,10 @@ nav a:hover {
   margin: 10px;
   border-radius: 5px; /* Rounded corners for consistency */
   border-left: 5px solid #ffffff; /* White accent for the left border */
+  font-size: 1.1em; /* Slightly larger text for better readability */
+  line-height: 1.8; /* Adds more spacing between lines for a cleaner look */
+  text-align: justify; /* Aligns text for a polished appearance */
+  font-style: italic; /* Adds a subtle emphasis to the text */
 }
 
 /* Headings */
